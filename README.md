@@ -9,23 +9,36 @@ Musical Chairs is a fast-paced, Web3-powered competition where timing and discip
 * **Network:** Arbitrum One (ETH)
 * **Philosophy:** Skill-based, Player-funded, Zero-tracking Privacy.
 
-## 🚀 Key Links
-* **Play Now:** [https://muschairs.com](https://muschairs.com)
-* **Official Blog:** [https://muschairs.blogspot.com](https://muschairs.blogspot.com)
-* **Community:** [Discord](https://discord.gg/wnnJKjgfZW) | [Telegram](https://t.me/muschairs)
-* **X (Twitter):** [@muschairs](https://x.com/muschairs)
+## 🏆 Featured & Recognized
+* **Product Hunt:** [Top 50 Product of the Day](https://www.producthunt.com/products/musical-chairs)
+* **VibeRank:** [Top Web3 Apps](https://viberank.dev/apps/Musical%20Chairs)
+* **StartupTrusted:** [Verified Profile](https://startuptrusted.com?ref=muschairs.com)
 
-## 📊 Live Metrics & Analytics
-Track the ecosystem growth in real-time:
-* **Dune Analytics:** [Musical Chairs Dashboard](https://dune.com/crow004/musical-chairs-game-analytics)
+## 🚀 Play & Experience
+* **Official Website:** [https://muschairs.com](https://muschairs.com)
+* **Public Testnet:** [https://test.muschairs.com](https://test.muschairs.com)
+
+## 📊 Live Metrics & Ecosystem Stats
+Track our growth and transparency in real-time:
+* **Dune Analytics:** [Full Game Dashboard](https://dune.com/crow004/musical-chairs-game-analytics)
 * **DefiLlama:** [Protocol Stats](https://defillama.com/protocol/musical-chairs)
-* **DappRadar:** [Game Profile](https://dappradar.com/dapp/musical-chairs)
+* **DappRadar:** [On-chain Profile](https://dappradar.com/dapp/musical-chairs)
+
+## 📰 Articles & Deep Dives
+* **Medium:** [Founder's Blog & Strategy](https://medium.com/@crow004)
+* **Dev.to:** [Technical Insights](https://dev.to/crow004)
+* **Google Sites:** [Project Overview](https://sites.google.com/view/muschairs/)
+* **Blogspot:** [Latest News](https://muschairs.blogspot.com)
+
+## 🌐 Community & Socials
+* **Chat:** [Discord](https://discord.gg/wnnJKjgfZW) | [Telegram](https://t.me/muschairs)
+* **Social:** [X (Twitter)](https://x.com/muschairs) | [Farcaster](https://farcaster.xyz/crow004) | [Damus (Nostr)](https://damus.io/npub1v0kc8fwz67k0mv539z6kaw5h25et9e2zmnnqq6z2naytaq566gwqkzz542)
+* **Video:** [YouTube Channel](https://youtube.com/@muschairs)
 
 ## 🛠 Tech Stack
-* **Frontend:** HTML5 / CSS3 / JavaScript
-* **Deployment:** [Vercel](https://vercel.com)
 * **Blockchain:** Solidity / Arbitrum Smart Contracts
-* **Analytics:** [Umami](https://umami.is) (Privacy-focused, cookie-free)
+* **Analytics:** [Umami](https://umami.is) (100% Privacy-focused)
+* **Deployment:** Vercel & GitHub Pages
 
 ---
 *This page serves as a satellite resource for the Musical Chairs ecosystem. Join the chair rush and prove your discipline!*
