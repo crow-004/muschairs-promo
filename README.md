@@ -13,6 +13,7 @@ Musical Chairs is a fast-paced, Web3-powered competition where timing and discip
 * **Product Hunt:** [Top 50 Product of the Day](https://www.producthunt.com/products/musical-chairs)
 * **VibeRank:** [Top Web3 Apps](https://viberank.dev/apps/Musical%20Chairs)
 * **StartupTrusted:** [Verified Profile](https://startuptrusted.com?ref=muschairs.com)
+* **PeerPush:** [Trending Web3 Product](https://peerpush.net/p/musical-chairs)
 
 ## 🚀 Play & Experience
 * **Official Website:** [https://muschairs.com](https://muschairs.com)
